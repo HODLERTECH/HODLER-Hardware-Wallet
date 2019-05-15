@@ -1,2 +1,2 @@
-# HODLER-Hardware-Wallet
- Target project of HODLER.TECH - hardware wallet with AOSP system and built-in HODLER Wallet application
+# HODLER Pro
+ Target project of HODLER.TECH/pro - Blockchain smartphone with AOSP and built-in HODLER Wallet application.
